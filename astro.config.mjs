@@ -26,6 +26,12 @@ export default defineConfig({
                     ],
                 },
                 {
+                    label: 'Chemistry',
+                    autogenerate: {
+                        directory: 'chemistry',
+                    },
+                },
+                {
                     label: 'Foods',
                     autogenerate: {
                         directory: 'foods',
