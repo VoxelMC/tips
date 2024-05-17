@@ -41,7 +41,7 @@ flowers such as hydrangeas.
 		alt="A photo of hydrangeas with flowers of different colours." 
 		style="width: 50%; margin-inline: auto; margin-top: 2rem; margin-bottom: 0;" />
 	<figcaption style="margin-top: 0.25rem; text-align: center; color: gray;">
-		Hydrangeas with flowers of different colours, from different pH in the soil.
+		Hydrangeas with flowers of different colours, arising from anthocyanins, <br>which change colour from differing pH in the soil.
 	</figcaption>
 </figure>
 
